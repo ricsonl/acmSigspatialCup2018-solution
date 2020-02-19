@@ -1,0 +1,3 @@
+ASSOCIATIONTYPE,FROMFEATURECLASS,FROMASSETGROUP,FROMASSETTYPE,FROMGLOBALID,FROMTERMINAL,TOFEATURECLASS,TOASSETGROUP,TOASSETTYPE,TOGLOBALID,TOTERMINAL,ISCONTENTVISIBLE
+Junction Junction Connectivity,ElectricDistributionDevice,Service Point,Meter,{1E7FD915-33B9-42DD-A66E-486ACACE0453},Single Terminal,ElectricDistributionJunction,Connection Point,Connection Point,{7FC28536-6F4A-4A9A-B439-1D87AE2D8871},Single Terminal,
+Junction Junction Connectivity,ElectricDistributionDevice,Service Point,Meter,{A74F2044-365A-4277-9166-71C15062C5B3},Single Terminal,ElectricDistributionJunction,Connection Point,Connection Point,{7FC28536-6F4A-4A9A-B439-1D87AE2D8871},Single Terminal,
