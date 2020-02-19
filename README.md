@@ -1,4 +1,4 @@
-# acmSigspatialCup2018-solution
+# ACM Sigspatial Cup 2018
 Our solution for ACM Sigspatial Cup 2018, as a university assignment (Graph Theory)
 
 ## Problem definition
